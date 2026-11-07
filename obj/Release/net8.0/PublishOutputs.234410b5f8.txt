@@ -1,0 +1,3 @@
+/workspaces/Labjratory-.NET-1/bin/Release/net8.0/publish/Core.dll
+/workspaces/Labjratory-.NET-1/bin/Release/net8.0/publish/Core.deps.json
+/workspaces/Labjratory-.NET-1/bin/Release/net8.0/publish/Core.pdb

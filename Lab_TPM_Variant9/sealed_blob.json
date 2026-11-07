@@ -1,0 +1,11 @@
+{
+    "ciphertext": "de39717ecc74a1d1149163b2316979884fe69ab3279884a2cc58c841dfad276b",
+    "mac": "d22ec95a90236fa1bc20e551cdf835af59403430657220292e630411e3537e57",
+    "policy_pcr_indices": [
+        0,
+        2,
+        5,
+        7
+    ],
+    "policy_digest_at_seal_time": "9695d04c13d86805c26c97fd60859edd8e03824a515b81a8fe8da828b49af329"
+}

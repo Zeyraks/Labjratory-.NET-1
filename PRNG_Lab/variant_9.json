@@ -1,0 +1,20 @@
+{
+  "variant": 9,
+  "lfsr_length": 7,
+  "lfsr_taps": [
+    0,
+    3
+  ],
+  "lfsr_seed": [
+    1,
+    1,
+    0,
+    0,
+    0,
+    1,
+    1
+  ],
+  "rc4_key_hex": "ab14c256e7d8505679",
+  "plaintext": "Operation starts at midnight",
+  "intercepted_bits_length": 14
+}

@@ -1,0 +1,9 @@
+{
+  "variant": 9,
+  "rsa_small_p": 37,
+  "rsa_small_q": 43,
+  "rsa_test_message": 549,
+  "rsa_full_bit_length": 384,
+  "dh_p": 59,
+  "dh_g": 2
+}

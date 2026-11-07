@@ -1,0 +1,696 @@
+[
+  {
+    "url": "https://www.monobank.ua/",
+    "label": 0
+  },
+  {
+    "url": "http://google.accountverify.ru/signin?user=1",
+    "label": 1,
+    "pattern": "subdomain-trick"
+  },
+  {
+    "url": "https://secure-linkedinupdate.xyz/account@confirm",
+    "label": 1,
+    "pattern": "at-symbol-trick"
+  },
+  {
+    "url": "http://apple-account-security-check-verify.com/login",
+    "label": 1,
+    "pattern": "hyphen-flood"
+  },
+  {
+    "url": "http://linkedin-linkedin.tk/login.php?redirect=linkedin.com",
+    "label": 1,
+    "pattern": "double-brand"
+  },
+  {
+    "url": "https://www.dropbox.com/signin",
+    "label": 0
+  },
+  {
+    "url": "https://www.linkedin.com/account",
+    "label": 0
+  },
+  {
+    "url": "http://linkedin-linkedin.tk/login.php?redirect=linkedin.com",
+    "label": 1,
+    "pattern": "double-brand"
+  },
+  {
+    "url": "https://www.dropbox.com/settings",
+    "label": 0
+  },
+  {
+    "url": "https://www.dropbox.com/dashboard",
+    "label": 0
+  },
+  {
+    "url": "https://secure-googleupdate.xyz/account@confirm",
+    "label": 1,
+    "pattern": "at-symbol-trick"
+  },
+  {
+    "url": "http://144.72.36.247/monobank/login",
+    "label": 1,
+    "pattern": "ip-instead-of-domain"
+  },
+  {
+    "url": "https://www.google.com/account",
+    "label": 0
+  },
+  {
+    "url": "http://netflix-account-security-check-verify.com/login",
+    "label": 1,
+    "pattern": "hyphen-flood"
+  },
+  {
+    "url": "http://dropbox-account-security-check-verify.com/login",
+    "label": 1,
+    "pattern": "hyphen-flood"
+  },
+  {
+    "url": "https://www.monobank.ua/dashboard",
+    "label": 0
+  },
+  {
+    "url": "http://monobank.accountverify.ru/signin?user=1",
+    "label": 1,
+    "pattern": "subdomain-trick"
+  },
+  {
+    "url": "http://apple-account-security-check-verify.com/login",
+    "label": 1,
+    "pattern": "hyphen-flood"
+  },
+  {
+    "url": "http://monobank-monobank.tk/login.php?redirect=monobank.com",
+    "label": 1,
+    "pattern": "double-brand"
+  },
+  {
+    "url": "http://monobank.accountverify.ru/signin?user=1",
+    "label": 1,
+    "pattern": "subdomain-trick"
+  },
+  {
+    "url": "https://www.dropbox.com/settings",
+    "label": 0
+  },
+  {
+    "url": "https://secure-netflixupdate.xyz/account@confirm",
+    "label": 1,
+    "pattern": "at-symbol-trick"
+  },
+  {
+    "url": "https://www.dropbox.com/signin",
+    "label": 0
+  },
+  {
+    "url": "https://www.google.com/help",
+    "label": 0
+  },
+  {
+    "url": "https://secure-linkedinupdate.xyz/account@confirm",
+    "label": 1,
+    "pattern": "at-symbol-trick"
+  },
+  {
+    "url": "http://dropbox-account-security-check-verify.com/login",
+    "label": 1,
+    "pattern": "hyphen-flood"
+  },
+  {
+    "url": "https://www.apple.com/",
+    "label": 0
+  },
+  {
+    "url": "https://www.monobank.ua/login",
+    "label": 0
+  },
+  {
+    "url": "https://www.netflix.com/dashboard",
+    "label": 0
+  },
+  {
+    "url": "https://www.linkedin.com/signin",
+    "label": 0
+  },
+  {
+    "url": "https://www.netflix.com/login",
+    "label": 0
+  },
+  {
+    "url": "https://www.google.com/settings",
+    "label": 0
+  },
+  {
+    "url": "http://linkedin-linkedin.tk/login.php?redirect=linkedin.com",
+    "label": 1,
+    "pattern": "double-brand"
+  },
+  {
+    "url": "http://dropbox-account-security-check-verify.com/login",
+    "label": 1,
+    "pattern": "hyphen-flood"
+  },
+  {
+    "url": "https://www.monobank.ua/help",
+    "label": 0
+  },
+  {
+    "url": "http://google-account-security-check-verify.com/login",
+    "label": 1,
+    "pattern": "hyphen-flood"
+  },
+  {
+    "url": "http://239.2.225.251/apple/login",
+    "label": 1,
+    "pattern": "ip-instead-of-domain"
+  },
+  {
+    "url": "https://www.google.com/account",
+    "label": 0
+  },
+  {
+    "url": "http://monobank-account-security-check-verify.com/login",
+    "label": 1,
+    "pattern": "hyphen-flood"
+  },
+  {
+    "url": "https://www.linkedin.com/login",
+    "label": 0
+  },
+  {
+    "url": "http://dropbox-account-security-check-verify.com/login",
+    "label": 1,
+    "pattern": "hyphen-flood"
+  },
+  {
+    "url": "http://116.37.181.144/dropbox/login",
+    "label": 1,
+    "pattern": "ip-instead-of-domain"
+  },
+  {
+    "url": "http://google-google.tk/login.php?redirect=google.com",
+    "label": 1,
+    "pattern": "double-brand"
+  },
+  {
+    "url": "https://www.linkedin.com/signin",
+    "label": 0
+  },
+  {
+    "url": "https://www.google.com/account",
+    "label": 0
+  },
+  {
+    "url": "https://www.netflix.com/signin",
+    "label": 0
+  },
+  {
+    "url": "http://dropbox-account-security-check-verify.com/login",
+    "label": 1,
+    "pattern": "hyphen-flood"
+  },
+  {
+    "url": "http://netflix-account-security-check-verify.com/login",
+    "label": 1,
+    "pattern": "hyphen-flood"
+  },
+  {
+    "url": "http://225.63.10.160/netflix/login",
+    "label": 1,
+    "pattern": "ip-instead-of-domain"
+  },
+  {
+    "url": "http://dropbox.accountverify.ru/signin?user=1",
+    "label": 1,
+    "pattern": "subdomain-trick"
+  },
+  {
+    "url": "http://google-account-security-check-verify.com/login",
+    "label": 1,
+    "pattern": "hyphen-flood"
+  },
+  {
+    "url": "http://apple-account-security-check-verify.com/login",
+    "label": 1,
+    "pattern": "hyphen-flood"
+  },
+  {
+    "url": "http://117.16.126.228/google/login",
+    "label": 1,
+    "pattern": "ip-instead-of-domain"
+  },
+  {
+    "url": "http://65.242.157.6/dropbox/login",
+    "label": 1,
+    "pattern": "ip-instead-of-domain"
+  },
+  {
+    "url": "http://netflix.accountverify.ru/signin?user=1",
+    "label": 1,
+    "pattern": "subdomain-trick"
+  },
+  {
+    "url": "https://www.google.com/login",
+    "label": 0
+  },
+  {
+    "url": "http://dropbox-account-security-check-verify.com/login",
+    "label": 1,
+    "pattern": "hyphen-flood"
+  },
+  {
+    "url": "http://60.96.211.247/monobank/login",
+    "label": 1,
+    "pattern": "ip-instead-of-domain"
+  },
+  {
+    "url": "https://secure-linkedinupdate.xyz/account@confirm",
+    "label": 1,
+    "pattern": "at-symbol-trick"
+  },
+  {
+    "url": "http://google-account-security-check-verify.com/login",
+    "label": 1,
+    "pattern": "hyphen-flood"
+  },
+  {
+    "url": "http://dropbox-account-security-check-verify.com/login",
+    "label": 1,
+    "pattern": "hyphen-flood"
+  },
+  {
+    "url": "http://apple.accountverify.ru/signin?user=1",
+    "label": 1,
+    "pattern": "subdomain-trick"
+  },
+  {
+    "url": "http://netflix-account-security-check-verify.com/login",
+    "label": 1,
+    "pattern": "hyphen-flood"
+  },
+  {
+    "url": "https://www.google.com/dashboard",
+    "label": 0
+  },
+  {
+    "url": "http://monobank.accountverify.ru/signin?user=1",
+    "label": 1,
+    "pattern": "subdomain-trick"
+  },
+  {
+    "url": "https://www.apple.com/account",
+    "label": 0
+  },
+  {
+    "url": "http://54.202.100.76/dropbox/login",
+    "label": 1,
+    "pattern": "ip-instead-of-domain"
+  },
+  {
+    "url": "http://monobank-account-security-check-verify.com/login",
+    "label": 1,
+    "pattern": "hyphen-flood"
+  },
+  {
+    "url": "http://monobank-monobank.tk/login.php?redirect=monobank.com",
+    "label": 1,
+    "pattern": "double-brand"
+  },
+  {
+    "url": "http://dropbox-account-security-check-verify.com/login",
+    "label": 1,
+    "pattern": "hyphen-flood"
+  },
+  {
+    "url": "https://www.linkedin.com/",
+    "label": 0
+  },
+  {
+    "url": "https://www.dropbox.com/help",
+    "label": 0
+  },
+  {
+    "url": "http://linkedin-account-security-check-verify.com/login",
+    "label": 1,
+    "pattern": "hyphen-flood"
+  },
+  {
+    "url": "http://linkedin-account-security-check-verify.com/login",
+    "label": 1,
+    "pattern": "hyphen-flood"
+  },
+  {
+    "url": "https://secure-appleupdate.xyz/account@confirm",
+    "label": 1,
+    "pattern": "at-symbol-trick"
+  },
+  {
+    "url": "http://google-account-security-check-verify.com/login",
+    "label": 1,
+    "pattern": "hyphen-flood"
+  },
+  {
+    "url": "https://www.linkedin.com/profile",
+    "label": 0
+  },
+  {
+    "url": "http://219.81.155.224/apple/login",
+    "label": 1,
+    "pattern": "ip-instead-of-domain"
+  },
+  {
+    "url": "https://www.monobank.ua/login",
+    "label": 0
+  },
+  {
+    "url": "http://152.39.250.99/linkedin/login",
+    "label": 1,
+    "pattern": "ip-instead-of-domain"
+  },
+  {
+    "url": "https://www.google.com/help",
+    "label": 0
+  },
+  {
+    "url": "https://www.netflix.com/account",
+    "label": 0
+  },
+  {
+    "url": "https://secure-googleupdate.xyz/account@confirm",
+    "label": 1,
+    "pattern": "at-symbol-trick"
+  },
+  {
+    "url": "https://www.dropbox.com/account",
+    "label": 0
+  },
+  {
+    "url": "http://monobank.accountverify.ru/signin?user=1",
+    "label": 1,
+    "pattern": "subdomain-trick"
+  },
+  {
+    "url": "https://www.dropbox.com/settings",
+    "label": 0
+  },
+  {
+    "url": "https://www.google.com/login",
+    "label": 0
+  },
+  {
+    "url": "https://secure-linkedinupdate.xyz/account@confirm",
+    "label": 1,
+    "pattern": "at-symbol-trick"
+  },
+  {
+    "url": "https://www.google.com/help",
+    "label": 0
+  },
+  {
+    "url": "http://netflix.accountverify.ru/signin?user=1",
+    "label": 1,
+    "pattern": "subdomain-trick"
+  },
+  {
+    "url": "http://monobank.accountverify.ru/signin?user=1",
+    "label": 1,
+    "pattern": "subdomain-trick"
+  },
+  {
+    "url": "http://google-google.tk/login.php?redirect=google.com",
+    "label": 1,
+    "pattern": "double-brand"
+  },
+  {
+    "url": "https://www.netflix.com/profile",
+    "label": 0
+  },
+  {
+    "url": "http://89.182.200.64/linkedin/login",
+    "label": 1,
+    "pattern": "ip-instead-of-domain"
+  },
+  {
+    "url": "http://google-google.tk/login.php?redirect=google.com",
+    "label": 1,
+    "pattern": "double-brand"
+  },
+  {
+    "url": "http://monobank-account-security-check-verify.com/login",
+    "label": 1,
+    "pattern": "hyphen-flood"
+  },
+  {
+    "url": "http://google.accountverify.ru/signin?user=1",
+    "label": 1,
+    "pattern": "subdomain-trick"
+  },
+  {
+    "url": "https://www.monobank.ua/profile",
+    "label": 0
+  },
+  {
+    "url": "https://www.google.com/account",
+    "label": 0
+  },
+  {
+    "url": "https://www.netflix.com/login",
+    "label": 0
+  },
+  {
+    "url": "http://dropbox-account-security-check-verify.com/login",
+    "label": 1,
+    "pattern": "hyphen-flood"
+  },
+  {
+    "url": "http://apple-account-security-check-verify.com/login",
+    "label": 1,
+    "pattern": "hyphen-flood"
+  },
+  {
+    "url": "http://117.152.144.140/monobank/login",
+    "label": 1,
+    "pattern": "ip-instead-of-domain"
+  },
+  {
+    "url": "https://secure-linkedinupdate.xyz/account@confirm",
+    "label": 1,
+    "pattern": "at-symbol-trick"
+  },
+  {
+    "url": "https://www.netflix.com/login",
+    "label": 0
+  },
+  {
+    "url": "https://secure-appleupdate.xyz/account@confirm",
+    "label": 1,
+    "pattern": "at-symbol-trick"
+  },
+  {
+    "url": "http://monobank-monobank.tk/login.php?redirect=monobank.com",
+    "label": 1,
+    "pattern": "double-brand"
+  },
+  {
+    "url": "https://secure-appleupdate.xyz/account@confirm",
+    "label": 1,
+    "pattern": "at-symbol-trick"
+  },
+  {
+    "url": "https://secure-dropboxupdate.xyz/account@confirm",
+    "label": 1,
+    "pattern": "at-symbol-trick"
+  },
+  {
+    "url": "http://google-account-security-check-verify.com/login",
+    "label": 1,
+    "pattern": "hyphen-flood"
+  },
+  {
+    "url": "https://secure-dropboxupdate.xyz/account@confirm",
+    "label": 1,
+    "pattern": "at-symbol-trick"
+  },
+  {
+    "url": "https://www.google.com/",
+    "label": 0
+  },
+  {
+    "url": "https://www.apple.com/signin",
+    "label": 0
+  },
+  {
+    "url": "http://monobank.accountverify.ru/signin?user=1",
+    "label": 1,
+    "pattern": "subdomain-trick"
+  },
+  {
+    "url": "https://www.google.com/login",
+    "label": 0
+  },
+  {
+    "url": "http://105.151.18.21/google/login",
+    "label": 1,
+    "pattern": "ip-instead-of-domain"
+  },
+  {
+    "url": "http://dropbox-account-security-check-verify.com/login",
+    "label": 1,
+    "pattern": "hyphen-flood"
+  },
+  {
+    "url": "https://www.netflix.com/",
+    "label": 0
+  },
+  {
+    "url": "https://secure-monobankupdate.xyz/account@confirm",
+    "label": 1,
+    "pattern": "at-symbol-trick"
+  },
+  {
+    "url": "https://www.monobank.ua/login",
+    "label": 0
+  },
+  {
+    "url": "https://www.dropbox.com/signin",
+    "label": 0
+  },
+  {
+    "url": "https://www.google.com/help",
+    "label": 0
+  },
+  {
+    "url": "http://monobank-account-security-check-verify.com/login",
+    "label": 1,
+    "pattern": "hyphen-flood"
+  },
+  {
+    "url": "https://www.dropbox.com/help",
+    "label": 0
+  },
+  {
+    "url": "https://www.monobank.ua/help",
+    "label": 0
+  },
+  {
+    "url": "https://www.google.com/signin",
+    "label": 0
+  },
+  {
+    "url": "https://www.monobank.ua/dashboard",
+    "label": 0
+  },
+  {
+    "url": "https://www.apple.com/",
+    "label": 0
+  },
+  {
+    "url": "https://secure-dropboxupdate.xyz/account@confirm",
+    "label": 1,
+    "pattern": "at-symbol-trick"
+  },
+  {
+    "url": "https://secure-appleupdate.xyz/account@confirm",
+    "label": 1,
+    "pattern": "at-symbol-trick"
+  },
+  {
+    "url": "https://www.linkedin.com/signin",
+    "label": 0
+  },
+  {
+    "url": "https://secure-netflixupdate.xyz/account@confirm",
+    "label": 1,
+    "pattern": "at-symbol-trick"
+  },
+  {
+    "url": "http://dropbox-dropbox.tk/login.php?redirect=dropbox.com",
+    "label": 1,
+    "pattern": "double-brand"
+  },
+  {
+    "url": "http://netflix-netflix.tk/login.php?redirect=netflix.com",
+    "label": 1,
+    "pattern": "double-brand"
+  },
+  {
+    "url": "http://141.138.122.7/netflix/login",
+    "label": 1,
+    "pattern": "ip-instead-of-domain"
+  },
+  {
+    "url": "http://dropbox.accountverify.ru/signin?user=1",
+    "label": 1,
+    "pattern": "subdomain-trick"
+  },
+  {
+    "url": "http://apple-account-security-check-verify.com/login",
+    "label": 1,
+    "pattern": "hyphen-flood"
+  },
+  {
+    "url": "http://netflix-netflix.tk/login.php?redirect=netflix.com",
+    "label": 1,
+    "pattern": "double-brand"
+  },
+  {
+    "url": "https://www.monobank.ua/login",
+    "label": 0
+  },
+  {
+    "url": "https://www.monobank.ua/profile",
+    "label": 0
+  },
+  {
+    "url": "https://secure-googleupdate.xyz/account@confirm",
+    "label": 1,
+    "pattern": "at-symbol-trick"
+  },
+  {
+    "url": "http://dropbox-dropbox.tk/login.php?redirect=dropbox.com",
+    "label": 1,
+    "pattern": "double-brand"
+  },
+  {
+    "url": "http://dropbox-dropbox.tk/login.php?redirect=dropbox.com",
+    "label": 1,
+    "pattern": "double-brand"
+  },
+  {
+    "url": "http://dropbox.accountverify.ru/signin?user=1",
+    "label": 1,
+    "pattern": "subdomain-trick"
+  },
+  {
+    "url": "http://linkedin.accountverify.ru/signin?user=1",
+    "label": 1,
+    "pattern": "subdomain-trick"
+  },
+  {
+    "url": "http://google-account-security-check-verify.com/login",
+    "label": 1,
+    "pattern": "hyphen-flood"
+  },
+  {
+    "url": "http://131.96.245.221/dropbox/login",
+    "label": 1,
+    "pattern": "ip-instead-of-domain"
+  },
+  {
+    "url": "http://netflix-account-security-check-verify.com/login",
+    "label": 1,
+    "pattern": "hyphen-flood"
+  },
+  {
+    "url": "https://secure-netflixupdate.xyz/account@confirm",
+    "label": 1,
+    "pattern": "at-symbol-trick"
+  },
+  {
+    "url": "https://www.netflix.com/account",
+    "label": 0
+  }
+]
