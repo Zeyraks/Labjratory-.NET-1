@@ -1,0 +1,15 @@
+{
+  "variant": 9,
+  "aes_key_hex": "edbf88465f03aded29ab14c256e7d850",
+  "image_width": 120,
+  "image_height": 120,
+  "message_a": "Bonus payment approved this month",
+  "message_b": "Bonus payment denied this month",
+  "feistel_round_keys": [
+    1,
+    3,
+    4
+  ],
+  "feistel_L0": 2,
+  "feistel_R0": 12
+}

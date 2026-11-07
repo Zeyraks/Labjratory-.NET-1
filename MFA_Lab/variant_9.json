@@ -1,0 +1,11 @@
+{
+  "variant": 9,
+  "secret_b32": "5W7YQRS7AOW62KNLCTBFNZ6YKBLHSGRY",
+  "digits": 6,
+  "step_seconds": 60,
+  "drift_windows": 2,
+  "aaa_protocol": "RADIUS",
+  "aaa_scenario": "Точки доступу гостьового Wi-Fi з порталом автентифікації",
+  "p_password_compromise": 0.014,
+  "p_second_factor_compromise": 0.0035
+}

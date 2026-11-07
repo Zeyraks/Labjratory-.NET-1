@@ -1,0 +1,21 @@
+{
+  "variant": 9,
+  "scenario_profile": "Хмарні сервіси (фішинг під запит доступу до документа)",
+  "target_domains": [
+    "dropbox.com",
+    "monobank.ua",
+    "apple.com",
+    "linkedin.com",
+    "netflix.com",
+    "google.com"
+  ],
+  "phishing_patterns_used": [
+    "hyphen-flood",
+    "double-brand",
+    "subdomain-trick",
+    "ip-instead-of-domain",
+    "at-symbol-trick"
+  ],
+  "phish_ratio": 0.63,
+  "total_examples": 150
+}

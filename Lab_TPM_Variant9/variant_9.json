@@ -1,0 +1,16 @@
+{
+  "variant": 9,
+  "bios_version": "v1.88.4",
+  "bootloader": "GRUB 2.12",
+  "option_rom": "GPU VBIOS v2.1",
+  "policy_pcrs": [
+    0,
+    2,
+    5,
+    7
+  ],
+  "secret": "DISK_VOLUME_KEY_5795ebb2ff6202df",
+  "attack_scenario": "bios_downgrade",
+  "attack_pcr_index": 0,
+  "attack_description": "відкат прошивки BIOS до вразливої версії"
+}

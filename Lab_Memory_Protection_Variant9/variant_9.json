@@ -1,0 +1,11 @@
+{
+  "variant": 9,
+  "buffer_size": 96,
+  "flag_value": "SECRET_DATA_LEAKED_942A5795",
+  "payload_sizes": [
+    12,
+    96,
+    105,
+    242
+  ]
+}
